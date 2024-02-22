@@ -10,5 +10,6 @@
 - [Network-Analysis-Made-Simple](https://ericmjl.github.io/Network-Analysis-Made-Simple/) yet another great graph tutorial
 
 
+- [SPARQL tutorial](tutorials/05-sparql/wikidata_queries.ipynb)
 
 More tutorials coming soon!
