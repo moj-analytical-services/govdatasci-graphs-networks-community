@@ -10,6 +10,6 @@
 - [Network-Analysis-Made-Simple](https://ericmjl.github.io/Network-Analysis-Made-Simple/) yet another great graph tutorial
 
 
-- [SPARQL tutorial](tutorials/05-sparql/wikidata_queries.ipynb)
+- [SPARQL tutorial](tutorials/05-sparql/wikidata_queries.ipynb) :great tutorial by Alec Johnson,  former MOJ data scientist/engineer
 
 More tutorials coming soon!

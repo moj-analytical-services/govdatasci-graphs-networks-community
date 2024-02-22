@@ -1,5 +1,5 @@
 site_name: Graphs and Networks Community
-
+repo_url: 'https://github.com/moj-analytical-services/govdatasci-graphs-networks-community'
 use_directory_urls: false
 theme:
   icon:
@@ -71,6 +71,5 @@ nav:
   - Graph Terminology: "Terminology.md"
   - Useful Tutorials: 
         Tutorial links: "tutorials.md"
-        SparkQL tutorial : "tutorials/05-sparql/wikidata_queries.ipynb"
   - Blog:
     - "blog/index.md"
