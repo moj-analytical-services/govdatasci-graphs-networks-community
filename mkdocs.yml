@@ -1,0 +1,76 @@
+site_name: Graphs and Networks Community
+
+use_directory_urls: false
+theme:
+  icon:
+    repo: fontawesome/brands/github
+  name: "material"
+  features:
+    - content.code.annotate
+    - content.code.copy
+    - content.tabs.link
+    - content.tooltips
+    - header.autohide
+    - search.highlight
+    - search.share
+    - search.suggest
+    - navigation.indexes
+    - navigation.footer
+    - content.action.edit
+    - toc.follow
+    #- mermaid2:
+      #javascript: https://unpkg.com/mermaid@10.4.0/dist/mermaid.esm.min.mjs
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - scheme: slate
+      primary: purple
+      accent: red
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+  #custom_dir: docs/overrides
+  plugins:
+  - search
+  - mknotebooks
+  - tags
+  - blog:
+      post_date_format: long
+      archive: false
+markdown_extensions:
+  - abbr
+  - attr_list
+  - meta
+  - admonition
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: True
+      toc_depth: 3
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - footnotes
+nav:
+  - Home: "index.md"
+  - Getting Started with graph theory: "01_getting_started.md"
+  - Intermediate graph material: "02_intermediate_graph_material.md"
+  - Advanced graph material: "03_advanced_graph_material.md"
+  - Graph Terminology: "Terminology.md"
+  - Useful Tutorials: 
+        Tutorial links: "tutorials.md"
+        SparkQL tutorial : "tutorials/05-sparql/wikidata_queries.ipynb"
+  - Blog:
+    - "blog/index.md"
