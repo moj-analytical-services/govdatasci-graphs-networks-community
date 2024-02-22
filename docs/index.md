@@ -1,6 +1,10 @@
-# Welcome to #GraphsAndNetworksCommunity!
+# Welcome to the GraphsAndNetworksCommunity page!
 
 This is a space on the web for the `#community-graphs-and-networks` Gov data science slack channel!
+
+## Add your favourite materials
+
+The materials presented on this page are useful but certainly not definitive. If you have seen an article, read a book or worked on a project that would fit this page please do not hesitate to add information about it here (click on the github icon on the top of the page and open a Github issue or a PR! )
 
 ## Understanding the Terminology
 
