@@ -10,6 +10,6 @@
 - [Network-Analysis-Made-Simple](https://ericmjl.github.io/Network-Analysis-Made-Simple/) yet another great graph tutorial
 
 
-- [SPARQL tutorial](tutorials/05-sparql/wikidata_queries.ipynb) :great tutorial by Alec Johnson,  former MOJ data scientist/engineer
+- [SPARQL tutorial](tutorials/05-sparql/wikidata_queries.ipynb) :great tutorial by Alec Johnson,  former MOJ data scientist/engineer. Sparql is a query language for RDF-based graph databases. This notebook contains code for making Sparql queries with Python, plus some examples that connect to the Wikidata endpoint. There are also some questions to practise writing your own queries. Links to sample answers are included, but there are lots of alternative ways to answer them.
 
 More tutorials coming soon!

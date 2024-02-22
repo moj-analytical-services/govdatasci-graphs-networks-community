@@ -2,16 +2,6 @@
 
 This is a space on the web for the `#community-graphs-and-networks` Gov data science slack channel!
 
-## Add your favourite materials
-
-The materials presented on this page are useful but certainly not definitive. If you have seen an article, read a book or worked on a project that would fit this page please do not hesitate to add information about it here (click on the github icon on the top of the page and open a Github issue or a PR! )
-
-## Understanding the Terminology
-
-Graph theory comes with its unique set of terms and definitions. Our terminology section is here to help.
-
-- [Graph Terminology](Terminology.md): Familiarize yourself with the key terms in graph theory, making it easier to understand the rest of the documentation.
-
 ## Getting Started
 
 If you're new to graphs, we recommend starting with the basics to build a strong foundation.
@@ -26,19 +16,36 @@ Once you're comfortable with the basics, intermediate and advanced materials can
 
 - [Advanced Graph Material](03_advanced_graph_material.md): Graph Machine Learning and other material is here
 
+<br>
 
-## Additional Resources
+---
 
-To further your learning, we've compiled a list of tutorials in the field of graphs.
+<br>
 
-- [Useful Tutorials](tutorials.md): Access a curated list of tutorials to enhance your understanding and skills.
+<div class="grid cards" markdown>
 
+-   :fontawesome-brands-github:{ .lg .middle } __Add your favourite materials__
 
-## Stay Updated
+    ---
+    click on github icon on the top of the page and open a Github issue or a Pull Request!
 
-The blog section will provide you with the latest updates, tips, and insights in the world of graphs. For the time being there arent any posts but this will change soon 😊 
+-   :fontawesome-solid-rss:{ .lg .middle } __Stay Updated__
 
-- [Blog](blog/index.md)
+    ---
+    Latest news & updates in the world of graphs. [Blog](blog/index.md)
 
+-   :material-format-font:{ .lg .middle } __Tutorials__
 
+    ---
 
+    [Useful Tutorials](tutorials.md) 
+
+-   :material-scale-balance:{ .lg .middle } __Terminology__
+
+    ---
+
+    [Glossary](Terminology.md)
+
+    ---
+
+</div>

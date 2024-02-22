@@ -1,6 +1,8 @@
 site_name: Graphs and Networks Community
+site_url: 'https://moj-analytical-services.github.io/govdatasci-graphs-networks-community/'
 repo_url: 'https://github.com/moj-analytical-services/govdatasci-graphs-networks-community'
 use_directory_urls: false
+edit_uri: edit/main/docs/
 theme:
   icon:
     repo: fontawesome/brands/github
@@ -35,12 +37,16 @@ theme:
         name: Switch to light mode
   #custom_dir: docs/overrides
   plugins:
-  - search
-  - mknotebooks
-  - tags
-  - blog:
+    - blog:
       post_date_format: long
       archive: false
+    - search
+    - mknotebooks
+    - tags
+    - rss:
+        match_path: blog/posts/.* 
+        date_from_meta:
+          as_creation: date
 markdown_extensions:
   - abbr
   - attr_list
@@ -69,7 +75,6 @@ nav:
   - Intermediate graph material: "02_intermediate_graph_material.md"
   - Advanced graph material: "03_advanced_graph_material.md"
   - Graph Terminology: "Terminology.md"
-  - Useful Tutorials: 
-        Tutorial links: "tutorials.md"
+  - Useful Tutorials: "tutorials.md"
   - Blog:
     - "blog/index.md"

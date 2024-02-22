@@ -6,19 +6,30 @@
 
 ---
 
-### Spectral Graph Theory
+## Spectral Graph Theory
 
 
-[Spectral Graph Clustering tutorial](https://people.csail.mit.edu/dsontag/courses/ml14/notes/Luxburg07_tutorial_spectral_clustering.pdf) : A great introduction to spectral clustering methods working on Laplacian matrices derived from graph adjacency matrices.
+[Why use the laplacian matrix Q&A](https://math.stackexchange.com/questions/3457993/why-do-we-use-the-laplacian-matrix-in-spectral-clustering)
+
+[Spectral Graph Clustering tutorial](https://people.csail.mit.edu/dsontag/courses/ml14/notes/Luxburg07_tutorial_spectral_clustering.pdf) : A great introduction to spectral clustering methods,using Laplacian matrices derived from graph adjacency matrices.
 
 [Spectral Graph Theory material](https://ocw.mit.edu/courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/pages/lecture-notes/) : the first set of lectures is quite good and useful.
 
+---
 
-## Graph Databases Books
+## Graph Databases 
+
+### Books
 
 <a href="https://www.oreilly.com/library/view/the-practitioners-guide/9781492044062/"><img src="https://memgraph.com/images/blog/top-7-graph-algorithm-books/book4-the-practitioners-guide-to-graph-data.png" alt="The Practitioner's Guide to Graph Data by Denise Gosnell" width="250" height="400"></a><a href="https://www.packtpub.com/product/graph-data-science-with-neo4j/9781804612743"><img src="https://m.media-amazon.com/images/I/81AOSiFZo1L._SL1500_.jpg" alt="Graph Data Science with Neo4j" width="250" height="400"></a><img src="https://learning.oreilly.com/library/cover/9781617296376/250w/" alt="Graph Databases in Action" width="250" height="400"></a>
 
+### Courses
 
+[Neo4j Graph academy](https://graphacademy.neo4j.com/)
+[Gremlin Query Language guide](https://kelvinlawrence.net/book/Gremlin-Graph-Guide.html)
+[Wikidata SPARQL tutorial](https://www.wikidata.org/wiki/Wikidata:SPARQL_tutorial)
+
+---
 
 ## Knowledge Graphs Books and resources
 

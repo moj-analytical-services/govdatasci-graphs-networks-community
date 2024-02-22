@@ -14,4 +14,4 @@ Like any discipline, graphs/networks come with their own set of nomenclature. Th
 - **Subgraph**: A set of vertices and edges that are a subset of the full graph's vertices and edges.
 - **Degree**: A vertex/node measurement quantifying the number of connected edges.
 - **Connected Component**: A strongly connected subgraph, meaning that every vertex can reach the other vertices in the subgraph.
-- **Shortest Path**: The lowest number of edges required to traverse between two specific vertices/nodes.
+- **Shortest Path**: The lowest number of edges/links required to traverse between two specific vertices/nodes.
