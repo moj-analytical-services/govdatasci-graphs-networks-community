@@ -2,7 +2,6 @@ site_name: Graphs and Networks Community
 site_url: 'https://moj-analytical-services.github.io/govdatasci-graphs-networks-community/'
 repo_url: 'https://github.com/moj-analytical-services/govdatasci-graphs-networks-community'
 use_directory_urls: false
-edit_uri: edit/main/docs/
 theme:
   icon:
     repo: fontawesome/brands/github
